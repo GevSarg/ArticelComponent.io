@@ -27,6 +27,7 @@ main {
   box-shadow: 2px 10px 25px -25px black;
 }
 .img-side {
+  overflow: hidden;
   width: 40%;
   object-fit: cover;
 }
@@ -39,7 +40,6 @@ main {
 .right-side {
   border-radius: 0 15px 15px 0;
   width: 60%;
-  z-index: 2;
   font-family: Manrope;
   padding: 35px 40px;
   background-color: white;
