@@ -39,6 +39,7 @@ main {
 .right-side {
   border-radius: 0 15px 15px 0;
   width: 60%;
+  z-index: 2;
   font-family: Manrope;
   padding: 35px 40px;
   background-color: white;
